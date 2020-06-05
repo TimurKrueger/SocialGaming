@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27117236902",
+    "firebase_url": "https://projectsocialgaming.firebaseio.com",
+    "project_id": "projectsocialgaming",
+    "storage_bucket": "projectsocialgaming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27117236902:android:6b84bd816b059b00",
+        "android_client_info": {
+          "package_name": "com.SGGroup3.ProjectSG"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27117236902-8219mee2sn7n504pi1a1ml3uhmu0slfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxHGCsld2O12Hs2QpzBWtA01OHsBo1SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27117236902-8219mee2sn7n504pi1a1ml3uhmu0slfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

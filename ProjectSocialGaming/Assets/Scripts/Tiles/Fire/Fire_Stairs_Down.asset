@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7905cb88c6ab1a4cbbb3fef31ca4916, type: 3}
+  m_Name: Fire_Stairs_Down
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8292282702802065568, guid: 2f8432ea949a05945b757f1dc5d12e6d, type: 3}
+  difficulty: 5
+  id: -1

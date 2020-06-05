@@ -1,0 +1,102 @@
+﻿{
+  "Leaderboard" : {
+    "user_0" : {
+	  "uid" : "abcacbIOWSEDBifhj",
+      "name" : "Anon",
+      "score" : "100"
+    }
+  },
+  "Lobbies" : {
+    "lobby_xxx" : {
+	  "game_started" : 0,
+	  "ready_count": 1,
+	  "players": {
+        "player_count" : 4,
+	    "player_1" : "a",
+	    "player_2" : "b",
+	    "player_3" : "c",
+	    "player_4" : "d",
+	  },
+	  "chat" : {
+		"max_messages" : 4,
+		"messages" : {
+			"636970558527806848" : "sender|text"
+		}
+	  },
+	  "weather_data" : {
+		"a" : 10,
+		"b" : 2,
+		"c" : 4,
+		"d" : 8
+	  }	  
+    }
+  },
+  "Games" : {
+	"game_xxx" : {
+		"pair_1" : {
+			"player_1" : "a",
+			"player_4" : "d",
+			"level_data" : {
+				"blocks" : {
+					"block_000" : {
+						"x" : 0,
+						"id" : 0
+					}				
+				},
+				"entities" : {
+					"player" : {
+						"x" : 0,
+						"id" : 2
+					},
+					"enemy_000" : {
+						"x" : 0,
+						"ID" : 1					
+					}					
+				}
+			}
+		},
+		"pair_2" : {
+			"player_2" : "b",
+			"player_3" : "c",
+			"level_data" : {
+				"blocks" : {
+					"block_000" : {
+						"x" : 0,
+						"id" : 0
+					}				
+				},
+				"entities" : {
+					"player" : {
+						"x" : 0,
+						"id" : 0
+					},
+					"enemy_000" : {
+						"x" : 0,
+						"ID" : 1					
+					}
+					
+				}
+			}
+		}
+	}
+  },
+  "Profiles" : {
+    "4vxrIyBbE6Rf25IdmxwfKy7Yge43" : {
+		"username" : "Test User A",
+		"games_won" : 1,
+		"games_lost" : 1,
+		"friends" : {
+			"XjkjSv4HsBgB7fx2kYGkxM3Mx1A2" : 0
+		},
+		"nemeses" : {
+			"Y1WQD4rR83P6hfOiiVZ8FM4x3Ii2" : {
+				"won_against" : 0,
+				"lost_against" : 0
+			}
+		}
+	}
+  },
+  "TokenToUID" : {
+	"facebookToken" : "uid"
+  }
+}

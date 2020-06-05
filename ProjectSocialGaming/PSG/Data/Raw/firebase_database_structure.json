@@ -1,0 +1,78 @@
+﻿{
+  "Leaderboard" : {
+    "rank_1" : {
+      "name" : "Anon",
+      "score" : "100"
+    }
+  },
+  "Lobbies" : {
+    "lobby_xxx" : {
+      "player_count" : 4,
+	  "player_1" : "a",
+	  "player_2" : "b",
+	  "player_3" : "c",
+	  "player_4" : "d",
+	  "chat" : {
+		"max_messages" : 4,
+		"messages" : {
+			"message_01" : "abc"		
+		}
+	  }
+	  
+    }
+  },
+  "Games" : {
+	"game_xxx" : {
+		"pair_1" : {
+			"player_1" : "a",
+			"player_4" : "d",
+			"level_data" : {
+				"blocks" : {
+					"block_000" : {
+						"x" : 0,
+						"id" : 0
+					}				
+				},
+				"entities" : {
+					"player" : {
+						"x" : 0,
+						"y" : 2
+					},
+					"enemy_000" : {
+						"x" : 0,
+						"y" : 0,
+						"ID" : 1					
+					}					
+				}
+			}
+		},
+		"pair_2" : {
+			"player_2" : "b",
+			"player_3" : "c",
+			"level_data" : {
+				"blocks" : {
+					"block_000" : {
+						"x" : 0,
+						"id" : 0
+					}				
+				},
+				"entities" : {
+					"player" : {
+						"x" : 0,
+						"y" : 2
+					},
+					"enemy_000" : {
+						"x" : 0,
+						"y" : 0,
+						"ID" : 1					
+					}
+					
+				}
+			}
+		}
+	}
+  },
+  "UID_to_Username" : {
+	"Y5VLF8kuPvUPHQIGQFDxFnW0NcX2" : "Max Mustermann"
+  }  
+}
